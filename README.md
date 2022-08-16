@@ -7,7 +7,7 @@ Critics and hints to develop improvements are always welcome.
 
 Have fun ^_^ -ildeniz
 
-# [Project 1: Glass Classification](https://github.com/ildeniz/project_1_name) 
+# [Project 1: Glass Classification](https://github.com/ildeniz/ML-2022-001-Glass_classification) 
 * Bullet Point 1
 * Bullet Point 2
 * Bullet Point 3
