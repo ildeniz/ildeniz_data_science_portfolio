@@ -1,6 +1,6 @@
 # My data science portfolio
 If you are reading this, then it means that you have already obtained my CV and you want to check out my projects.
-As you can see that the purpose of this repository is to present you my current knowledge level by practice, for that I prefer to prepare my projects similar to research project, easy to follow and digest.
+As you can see that the purpose of this repository is to present you my current knowledge level by practice, for that I prepared my projects easy to follow and digest.
 
 I hope content of this repository will be helpful to give you a strong idea about my capabilities and technical skills.
 Critics and hints to develop improvements are always welcome.
