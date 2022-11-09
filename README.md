@@ -29,9 +29,9 @@ The purpose of this jupyter notebook is to create a library of data visualisatio
 # [Project 3: Forecasting Store Sales Through Time Series Analysis.](https://github.com/ildeniz/ML-2022-003-Forecasting_Store_Sales_Through_Time_Series_Analysis) 
 This notebook is influenced by [Rossman Store Sales competition](https://www.kaggle.com/competitions/rossmann-store-sales) that held in Kaggle and ran from 30th of September to 12th of December, 2015. The aim of the competition was to forecast the sales for individual stores of (almost) 7 weeks interval between 01.08.2015-17.09.2015. Rossmann provided a training data set consistent of daily sales data of 1115 stores located in Germany from 01.01.2013 to 31.07.2015 and data on competitors for supplement.
 
-I am going to apply my current knowledge on this data set and I am planning to update it as my knowledge on the field.
+I am going to apply my current knowledge on this data set and I am planning to update it as my knowledge on the field expands.
 
-The data set is obtained from [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/data)\
+The data set is obtained from [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/data)
 
 ![](/images/image.png)
 
