@@ -18,8 +18,6 @@ can be used as evidence…if it is correctly identified!
 The data set used in this work is obtained from;
 - https://archive.ics.uci.edu/ml/datasets/Glass+Identification
 
-* Bullet Point
-
 ![](/images/image.png)
 
 
