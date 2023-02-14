@@ -7,7 +7,7 @@ These projects were part of my learning process from university lectures of my M
 This project is influenced by [Rossman Store Sales competition](https://www.kaggle.com/competitions/rossmann-store-sales) that held in Kaggle and ran from 30th of September to 12th of December, 2015.
 The data set is obtained from [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/data)
 
-* Developed a hybrid model to predict the 1115 Rossmann stores' average daily sales for the next 60 days.
+* Developed a hybrid model to predict the 1115 Rossmann stores' average daily sales for the next 60 days to give them useful insights to make more accurate budgeting process and ease financial decision making.
 * Engineered features through given data sets to eliminate trend, seasonality and cycle components to make the time series stationary and the predictions accurate.
 * Root Mean Square Percentage Error: 0.1774
 
