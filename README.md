@@ -11,15 +11,29 @@ The data set is obtained from [Kaggle](https://www.kaggle.com/competitions/rossm
 * Engineered features through given data sets to eliminate trend, seasonality and cycle components to make the time series stationary and the predictions accurate.
 * Root Mean Square Percentage Error: 0.1774
 
-TODO:
+Improvements TODO:
   * Optimize hybrid model of Linear and Extreme Gradient Boosting Regressors using GridsearchCV to reach the best model.
   * Built a client facing API using flask/django/etc.
 
-
-
 ![](/Images/Actual_vs_Prediction_comparison.png )
 
-# [Project 2: Glass Classification [**This project is being updated**]](https://github.com/ildeniz/ML-2022-001-Glass_classification) 
+# [Project 2: Anime Recommendation System](https://github.com/ildeniz/Anime_Recommendation_System)  
+As a fellow anime fan, I wanted to make an anime recommendation system as a portfolio project.  
+To achieve this, I created a scrapper by using Jikan (時間) REST API to scrap 2334 TV anime productions between 2010-2022 (and users soon) from the most used online anime and manga catalogue myanimelist[DOT]net.
+
+The project is still in progress. Until now:
+* Scrapper for animes created
+* TV animes of last 12 years are scrapped  
+
+TODO:
+* Users data to be scrapped
+* Data cleaning
+* EDA
+* Model building (clustering)
+
+![](/images/image.png)
+
+# [Project 3: Glass Classification [**This project is being updated**]](https://github.com/ildeniz/ML-2022-001-Glass_classification) 
 
 The purpose of this project is to define the type of a glass depending on the given features. 
 
@@ -34,7 +48,4 @@ The data set used in this work is obtained from;
 ![](/images/image.png)
 
 
-# Project 3: TBA project,  
-The purpose of this project is TBA.
 
-![](/images/image.png)
