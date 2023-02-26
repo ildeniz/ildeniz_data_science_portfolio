@@ -33,7 +33,7 @@ TODO:
 
 ![](/images/image.png)
 
-# [Project 3: Glass Classification [**This project is being updated**]](https://github.com/ildeniz/ML-2022-001-Glass_classification) 
+# [Project 3: Glass Classification](https://github.com/ildeniz/ML-2022-001-Glass_classification) 
 
 The purpose of this project is to define the type of a glass depending on the given features. 
 
@@ -44,6 +44,11 @@ can be used as evidence…if it is correctly identified!
 
 The data set used in this work is obtained from;
 - https://archive.ics.uci.edu/ml/datasets/Glass+Identification
+
+* There were outliers in multiple features, the rows consistent with multiple outliers have been dropped from the data set.
+* High level skeweness in multiple features were detected, these features have been normaised.
+* Oxide contents have been scaled between 0-1 instead of 0-100 since they are in percentages.
+* Extra Trees Classifier accuracy score: 0.82.
 
 ![](/images/image.png)
 
