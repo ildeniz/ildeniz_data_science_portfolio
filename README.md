@@ -19,14 +19,14 @@ Improvements TODO:
 
 # [Project 2: Anime Recommendation System](https://github.com/ildeniz/Anime_Recommendation_System)  
 As a fellow anime fan, I wanted to make an anime recommendation system as a portfolio project.  
-To achieve this, I created a scrapper by using Jikan (時間) REST API to scrap 2334 TV anime productions between 2010-2022 (and users soon) from the most used online anime and manga catalogue myanimelist[DOT]net.
+To achieve this, I created a web scraper by using Jikan (時間) REST API to scrap 2334 TV anime productions data between 2010-2022 and 86269 individual users' data from the most used online anime and manga catalogue [myanimelist[DOT]net](https://myanimelist.net/).
 
 The project is still in progress. Until now:
-* Scrapper for animes created
-* TV animes of last 12 years are scrapped  
+* Created web scrapers by using Jikan (時間) REST API to scrap anime and user information from myanimelist.
+* Scraped 2333 anime TV productions between 2010-2022 from myanimelist using python and the created scraper.
+* Scraped 86269 individual users' data.
 
 TODO:
-* Users data to be scrapped
 * Data cleaning
 * EDA
 * Model building (clustering)
