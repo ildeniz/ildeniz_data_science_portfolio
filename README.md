@@ -54,6 +54,6 @@ The data set used in this work is obtained from;
 
 
 # [Project 4: TBA Deep-Learning Project](https://github.com/ildeniz/ildeniz_data_science_portfolio)
-* The project is planned to solve an image classification problem.
+* The project is planned to solve an image classification problem through image analysis.
 * The data set is planned to be obtained by using a web scrapper based on the Selenium library.
 * Packages to be used: Tensorflow/PyTorch, Selenium
